@@ -48,7 +48,7 @@ GEM
       json (~> 1.4)
     redcarpet (3.0.0)
     shoulda-context (1.1.4)
-    yard (0.8.6.2)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
@@ -63,4 +63,4 @@ DEPENDENCIES
   rake
   redcarpet
   shoulda-context
-  yard (~> 0.8.6.2)
+  yard (~> 0.9.20)

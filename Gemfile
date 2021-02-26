@@ -11,7 +11,7 @@ gem "highline", "~> 1.6.19"
 group :development do
   gem "bundler", "~> 1.3.5"
   gem "jeweler", "~> 1.8.4"
-  gem "yard", "~> 0.8.6.2"
+  gem "yard", "~> 0.9.20"
   gem "redcarpet"
   gem "github-markup"
 end
