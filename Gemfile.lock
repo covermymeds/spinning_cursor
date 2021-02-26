@@ -46,7 +46,7 @@ GEM
     rake (10.1.0)
     rdoc (4.0.1)
       json (~> 1.4)
-    redcarpet (3.0.0)
+    redcarpet (3.5.1)
     shoulda-context (1.1.4)
     yard (0.8.6.2)
 
