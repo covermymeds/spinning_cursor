@@ -53,14 +53,14 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<highline>, ["~> 1.6.19"])
       s.add_development_dependency(%q<bundler>, ["~> 1.3.5"])
       s.add_development_dependency(%q<jeweler>, ["~> 1.8.4"])
-      s.add_development_dependency(%q<yard>, ["~> 0.8.6.2"])
+      s.add_development_dependency(%q<yard>, "~> 0.9.20")
       s.add_development_dependency(%q<redcarpet>, [">= 0"])
       s.add_development_dependency(%q<github-markup>, [">= 0"])
     else
       s.add_dependency(%q<highline>, ["~> 1.6.19"])
       s.add_dependency(%q<bundler>, ["~> 1.3.5"])
       s.add_dependency(%q<jeweler>, ["~> 1.8.4"])
-      s.add_dependency(%q<yard>, ["~> 0.8.6.2"])
+      s.add_dependency(%q<yard>, "~> 0.9.20")
       s.add_dependency(%q<redcarpet>, [">= 0"])
       s.add_dependency(%q<github-markup>, [">= 0"])
     end
@@ -68,7 +68,7 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<highline>, ["~> 1.6.19"])
     s.add_dependency(%q<bundler>, ["~> 1.3.5"])
     s.add_dependency(%q<jeweler>, ["~> 1.8.4"])
-    s.add_dependency(%q<yard>, ["~> 0.8.6.2"])
+    s.add_dependency(%q<yard>, "~> 0.9.20")
     s.add_dependency(%q<redcarpet>, [">= 0"])
     s.add_dependency(%q<github-markup>, [">= 0"])
   end
